@@ -1,4 +1,4 @@
-# -windows-komutları- 
+# -Windows-DOS-Komutları- 
 
 Kullanıcıların en fazla kullandığı 20 windows komutuna yer verilmiştir.
 Her komut için bir açıklama, kullanım şekli ve örnek çıktı yer almaktadır.
